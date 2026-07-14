@@ -1,1 +1,0 @@
-/opt/local/config/rc/bashrc.d/
